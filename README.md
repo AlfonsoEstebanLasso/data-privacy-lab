@@ -13,7 +13,7 @@ Coursework project — BSc in Applied Data Science, Universitat Oberta de Catalu
 
 Two hands-on notebooks that first **break** a naively "anonymized" data release and then **protect** it, using a worker-absenteeism scenario: an HR department publishes a demographics table and a detailed absence-records table and assumes that removing names from one of them is enough.
 
-> Exercise headers were rewritten in English for this repository; the author's analysis and justification cells keep their original Spanish narrative. Notebook narrative is in Spanish.
+> Exercise headers were rewritten in English for this repository, and the author's analysis and justification cells were translated to English from the original Spanish. Printed outputs, figure labels and text strings inside the code are shown as originally executed (in Spanish).
 
 ## Objective
 
